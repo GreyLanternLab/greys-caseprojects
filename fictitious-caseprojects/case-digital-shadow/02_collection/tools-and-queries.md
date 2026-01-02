@@ -128,7 +128,7 @@ Pivot: absence is not suspicious, but documented
 
 ⚠️ No facial recognition on real persons.
 
-✍️ Text & Language
+## ✍️ Text & Language
 Exact Sentence Matching
 ```
 "fast-track selection" "video interview" "deployment within 2–3 weeks"
