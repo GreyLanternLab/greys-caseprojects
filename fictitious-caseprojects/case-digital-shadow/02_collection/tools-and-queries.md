@@ -50,7 +50,7 @@ Wayback Machine search: glam-ops.net
 Output: first capture, content changes
 Pivot: site age vs “fast deployment” narrative
 
-📧 Contact Points (Email / Phone / WhatsApp)
+## 📧 Contact Points (Email / Phone / WhatsApp)
 
 Tools:
 Search engines, dig, email syntax validators (syntax only)
@@ -86,6 +86,7 @@ Pivot: VOIP providers, regional clustering
 
 ⚠️ No calls, no messages, no interaction.
 
+
 ## 📱 SOCMINT
 Handle & Bio Search
 ```
@@ -101,6 +102,7 @@ site:twitter.com OR site:tiktok.com
 ```
 Output: duplicated branding or language
 Pivot: syndication patterns
+
 
 ## 🖼️ Image Analysis
 
@@ -142,6 +144,7 @@ Semantic Variants
 Output: content farms or ad networks
 Pivot: regional reuse
 
+
 ## 🏢 Entities & Registrations
 
 Tools:
@@ -162,6 +165,7 @@ site:maps.google.com
 ```
 Output: fake reviews or missing address
 Pivot: address mismatch
+
 
 ## 🌍 Context & Corroboration
 
