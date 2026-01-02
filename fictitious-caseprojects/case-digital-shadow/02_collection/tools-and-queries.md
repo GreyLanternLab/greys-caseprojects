@@ -86,7 +86,7 @@ Pivot: VOIP providers, regional clustering
 
 ⚠️ No calls, no messages, no interaction.
 
-📱 SOCMINT
+## 📱 SOCMINT
 Handle & Bio Search
 ```
 site:instagram.com "glam_opps"
@@ -102,7 +102,7 @@ site:twitter.com OR site:tiktok.com
 Output: duplicated branding or language
 Pivot: syndication patterns
 
-🖼️ Image Analysis
+## 🖼️ Image Analysis
 
 Tools:
 Google Images, TinEye, InVID, Forensically, ExifTool
@@ -142,7 +142,7 @@ Semantic Variants
 Output: content farms or ad networks
 Pivot: regional reuse
 
-🏢 Entities & Registrations
+## 🏢 Entities & Registrations
 
 Tools:
 OpenCorporates, national business registries, OpenSanctions, Google Maps, NGO reports
@@ -163,7 +163,7 @@ site:maps.google.com
 Output: fake reviews or missing address
 Pivot: address mismatch
 
-🌍 Context & Corroboration
+## 🌍 Context & Corroboration
 
 Compare with UNODC, IOM and US TIP reports on recruitment patterns
 
