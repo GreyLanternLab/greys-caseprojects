@@ -4,7 +4,7 @@ Structured case projects for my OSINT learning journey.
 
 Current project:
 
-Each case project includes:
+Each case project can include content about:
 
 - scope & objectives  
 - methods used  
