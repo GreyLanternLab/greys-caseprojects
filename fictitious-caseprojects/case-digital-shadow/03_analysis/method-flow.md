@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Trigger / Observation] --> B[Context Definition]
     B --> C[Scope & Research Questions]
@@ -9,3 +10,4 @@ flowchart TD
 
     D -->|if needed| C
     F -->|refine hypotheses| C
+```
