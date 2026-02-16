@@ -25,7 +25,7 @@ Deze identificatie gebeurde via portinformatie en routecontext.
 
 ### Vessel-analyse
 
-Via open bronnen en maritieme databases werd een RoRo-cargo schip geïdentificeerd als plausibele kandidaat voor een actuele Zeebrugge-VK verbinding.
+Via open bronnen, maritieme databases en aanvullen informatie over werkgever van John Doe (HUMINT) werd een RoRo-cargo schip geïdentificeerd als plausibele kandidaat voor een actuele Zeebrugge-VK verbinding.
 
 Belangrijk:
 
@@ -41,9 +41,9 @@ Analysepunten:
 
 ### Vaarpatronen
 
-AIS-data toont een regelmatig patroon van overtochten met korte ligduur.
+AIS-data toont een regelmatig patroon van overtochten met korte ligduur (ligduur meestal 5uur).
 
-Een koersafwijking werd geobserveerd, maar zonder aanvullende data kon geen oorzaak worden vastgesteld.
+Een koersafwijking werd geobserveerd, maar zonder aanvullende data kon geen oorzaak worden vastgesteld en was verder ook niet relevant voor de onderzoeksvragen van deze case.
 
 ---
 
