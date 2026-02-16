@@ -35,6 +35,7 @@ SOCMINT werd gebruikt als leeronderdeel:
 - publieke bedrijfspagina’s
 - rolbenamingen binnen rederijen
 - algemene professionele context
+- verkenning van de mogelijkheid om nieuwe bronnen te kunnen vinden onder (oud) medewerkers op de lijn/het schip (indien nodig in een latere fase)
 
 Er werd bewust geen uitgebreide dataset van individuele namen opgebouwd.
 
