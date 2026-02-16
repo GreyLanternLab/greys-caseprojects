@@ -34,7 +34,7 @@ I deliberately chose to:
 ### What Worked Well
 
 - Pivoting from a person-based approach to a route-based analysis
-- Using Equasis to understand management structures
+- Using Equasis, marintraffic.org, marinetraffic.com, vesselfinder.com, versseltracker.com to understand MARINT and its management structures
 - Combining MARINT and GEOINT perspectives
 
 ---
@@ -44,11 +44,12 @@ I deliberately chose to:
 - Start earlier with infrastructure-focused analysis instead of person-centric OSINT
 - Use more map layers during course analysis
 - Incorporate historical AIS context at an earlier stage
+- See in an earlilere stage whether more information is available through HUMINT and not just try to rely on OSINT.
 
 ---
 
 ### Personal Conclusion
 
-This case confirmed that OSINT is not only about finding information, but about understanding systems.
+This case confirmed that OSINT is not only about finding information, but about understanding (maritime) systems.
 
-The primary value of this research lay in the process and the analytical growth it enabled.
+The primary value of this research lay in the process and the analytical growth it enabled for the field of MARINT.
