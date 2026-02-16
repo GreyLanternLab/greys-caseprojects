@@ -29,4 +29,3 @@ Open bronnen tonen dat Zeebrugge regelmatig voorkomt in dossiers rond mensensmok
 
 - Geen directe persoonskoppeling mogelijk via OSINT.
 - AIS-analyse beperkt door gratis datatoegang.
-- Booking-sites en AI-samenvattingen gebruikt als oriëntatie, niet als primaire bron.
